@@ -28,5 +28,5 @@ public class CatDTO {
 
     @NotEmpty
     @Size(min = 2, max = 180)
-    private String favActivity;
+    private String pastime;
 }

@@ -29,6 +29,6 @@ public class Cat {
     private Integer age;
 
     @Column(nullable = false)
-    private String favActivity;
+    private String pastime;
 
 }
